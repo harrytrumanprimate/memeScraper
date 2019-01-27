@@ -1,6 +1,6 @@
-# memeScraper
 
-## Overview
+
+# Overview
 
 memeScraper is a project currently under development with Sophie Huang.
 
